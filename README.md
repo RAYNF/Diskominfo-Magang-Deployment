@@ -4,11 +4,10 @@ This Project belongs to our special team from Computer Engineering University of
 Feel free to check it out
 
 # Authors :
-`Muhamad Ibnu Fadhil`
-`Muhammad Asroruddin`
-`M. Bintang Prayoga Utama`
-`Yosia Aser Camme`
-`Muhammad Jawaar`
+`Rayhan Noor Faturohman`
+`Harmiaji Bagas Satyatma Sitepu`
+`Reza Firmansyah Putranto`
+`Raga Brian Satria Putra E`
 
 Tech used :
 ReactJS (frontEnd)
