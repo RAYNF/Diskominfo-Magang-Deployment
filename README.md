@@ -1,5 +1,5 @@
 # diskominfo-smg-magang
-This Project belongs to our special team from Computer Engineering University of Diponegoro
+This Project belongs to our special team from Computer Engineering Dian Nuswantoro University
 
 Feel free to check it out
 
